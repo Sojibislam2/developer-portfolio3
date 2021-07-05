@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: crimson;
+    font-size: 50px;
+}
+.us-color{
+    color: darkblue;
+}
+.half-width{
+    padding: 30px;
+    width: 50%;
+}
+section{
+    display: flex;
+}
+.half-width img{
+    width: 80%;
+}
+p{
+    text-align: justify;
+}
+.link-button{
+    font-weight: 700;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
